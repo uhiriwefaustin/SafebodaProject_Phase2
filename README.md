@@ -135,4 +135,8 @@ graph TB
     style C fill:#0c4b33
     style G fill:#336791
     style H fill:#ff6b6b
+<<<<<<< HEAD
     style I fill:#28a745
+=======
+    style I fill:#28a745
+>>>>>>> 0d447d7d4faf3212ebb649a2d18679955a45ea0e
