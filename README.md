@@ -136,4 +136,4 @@ graph TB
     style G fill:#336791
     style H fill:#ff6b6b
     style I fill:#28a745
-    
+    style I fill:#28a745
